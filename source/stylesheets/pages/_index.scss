@@ -1,3 +1,12 @@
 // Import page-specific CSS files here.
 @import "home";
 @import "about";
+
+
+#home-flats {
+  margin-top: 70px;
+  margin-bottom: 50px;
+  h3{
+    margin-bottom:20px;
+  }
+}
