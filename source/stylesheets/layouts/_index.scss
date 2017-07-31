@@ -3,3 +3,17 @@
 // @import "dashboard";
 // @import "profile";
 // @import "map";
+@import "components/navbar";
+@import "components/footer";
+@import "components/cards";
+@import "components/banner";
+@import "components/index";
+
+#home-flats {
+  margin-top: 70px;
+  margin-bottom: 50px;
+  h3{
+    margin-bottom:20px;
+  }
+
+}
